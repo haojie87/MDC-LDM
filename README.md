@@ -68,8 +68,7 @@ E-mail: [sunyu_hc@163.com](mailto:sunyu_hc@163.com;);
 │   │   │   ├── ema.py
 │   │   │   └── module.py
 │   │   ├── networks
-│   │   │   ├── vae
-│   │   │   │   └── autoencoder.py
+│   │   │   ├── autoencoder.py
 │   │   │   ├── base.py
 │   │   │   └── unet.py
 │   │   └── trainers
@@ -101,6 +100,7 @@ E-mail: [sunyu_hc@163.com](mailto:sunyu_hc@163.com;);
 
 
 ------
+
 
 
 
