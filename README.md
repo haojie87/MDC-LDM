@@ -2,7 +2,7 @@
 
 
 
-<img src="2.png" style="zoom:40%;" />
+<img src="2.png" style="zoom:20%;" />
 
 <img src="3.png" style="zoom:50%;" />
 
@@ -80,7 +80,7 @@ E-mail: [sunyu_hc@163.com](mailto:sunyu_hc@163.com;);
 │   │       └── trainer_VAE.py
 │   ├── generate
 │   │   ├── FID_calculator_plus.py
-│   │   ├── constraint_acc.py.py
+│   │   ├── constraint_acc.py
 │   │   ├── generate_VAE.py
 │   │   └── generate-latent.py
 │   └── utils
@@ -101,6 +101,7 @@ E-mail: [sunyu_hc@163.com](mailto:sunyu_hc@163.com;);
 
 
 ------
+
 
 
 
